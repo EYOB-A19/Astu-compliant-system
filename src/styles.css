@@ -47,6 +47,7 @@ a {
   position: sticky;
   top: 0;
   z-index: 100;
+  -webkit-backdrop-filter: blur(10px);
   backdrop-filter: blur(10px);
   background: rgba(246, 248, 251, 0.86);
   border-bottom: 1px solid rgba(19, 34, 56, 0.08);
